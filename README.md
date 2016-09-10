@@ -1,2 +1,4 @@
-# nexus-adb-backup
-This shell script is used for android nexus devices backup
+# Nexus ADB Backup Tool
+
+This shell script is used for android nexus devices backup.
+
